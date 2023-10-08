@@ -5,7 +5,7 @@ The app is bootstrapped using Vite React TypeScript  [Vite](https://vitejs.dev/)
 
 ---
 
-# \[Your application name\]
+# \[Sameer CRSS Task\]
 
 Sample Application to display data in a Table based on JSONPlaceholder Todos Endpoint
 ## Technologies used
